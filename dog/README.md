@@ -3,11 +3,14 @@
 
 ## Windows
 
-dog-v0.1.0-x86_64-windows.zip
+dog-v0.2.0-pre x86_64-windows.zip
 
 Built using rust
 
-See https://github.com/ogham/dog/issues/2
+See the related issues
+  - https://github.com/ogham/dog/issues/2
+  - https://github.com/ogham/dog/pull/62
+  - https://github.com/ogham/dog/issues/75
 
 ## Linux (Ubuntu 18.04)
 
